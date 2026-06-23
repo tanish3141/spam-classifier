@@ -3,8 +3,10 @@
 A machine learning web app that detects spam SMS messages using a Support Vector Machine trained on the UCI SMS Spam Collection dataset.
 
 ## Demo
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/2c858dd0-5ff5-4c7d-a642-e6dc9dc6d5ef" />
+<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/b88a4106-33de-460e-85d1-4ed2cd3a3770" />
 
-![App Screenshot](screenshot.png)
+
 
 ## How it works
 
